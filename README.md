@@ -1,9 +1,9 @@
-####[从无到有开发连麦直播技术点整理-AnyRTC](https://github.com/DyncLang/DevLiveBook)
+#### [从无到有开发连麦直播技术点整理-AnyRTC](https://github.com/DyncLang/DevLiveBook)
 
 #### 直播关键字
 **采集**、**前处理**、**编码**、**传输**、**解码**、**渲染**, **推流**, **拉流**、**连麦**、**直播**、**互动**、**RTMP**
 
-####原理科普
+#### 原理科普
 
 1. [为何一直推荐WebRTC？](http://www.jianshu.com/p/40d4d4f172e6)
 4. [RTMP vs RTMFP](http://www.jianshu.com/p/8f219e8aeb54)
@@ -32,7 +32,7 @@
 6. [Android之WebRTC介绍](http://www.devtf.cn/?p=669)
 
 
-####流媒体-服务器-CDN
+#### 流媒体-服务器-CDN
 
 1. [奥点云](http://www.aodianyun.com/)
 4. [七牛](http://www.qiniu.com/)
@@ -67,7 +67,7 @@
 7. [教育交互直播的技术难点与架构探索](http://mp.weixin.qq.com/s?__biz=MzI0NzUxMzQ2Mg==&mid=2247483762&idx=1&sn=3a0ffb2a2259652107861878f8d57546)
 
 
-####优秀开源项目
+#### 优秀开源项目
  
 1.  [【Android】DyncRTMPLiveClient-Android-推流-拉流-连麦-弹幕](https://github.com/AnyRTC/DyncRTMPLiveClient-Android)
 2. [【IOS】MPCHybirdEngine-IOS-推流-拉流-连麦-美颜-弹幕](https://github.com/AnyRTC/RTMPCHybirdEngine-IOS)
@@ -114,7 +114,7 @@
 7. [“映客直播”产品体验报告](http://www.jianshu.com/p/6bb63eff1654)
 8. [移动直播异军突起：ME直播产品体验报告](http://www.woshipm.com/evaluating/339187.html)
 
-####业界新闻-
+#### 业界新闻-
 
 1. [AnyRTC：国内独家拥有四连麦技术的直播平台](http://www.jianshu.com/p/d106a1756d8a)
 2. [直播逐渐渗透各行各业，在未来有哪些新的趋势？](https://www.zhihu.com/question/48106149)
